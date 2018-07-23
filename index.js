@@ -24,9 +24,9 @@ module.exports = {
       };
     }
 
-    #this.import('node_modules/css-element-queries/src/ResizeSensor.js', importOptions);
+    //this.import('node_modules/css-element-queries/src/ResizeSensor.js', importOptions);
 
-    #this.import('node_modules/hammerjs/hammer.js', importOptions);
+    //this.import('node_modules/hammerjs/hammer.js', importOptions);
   },
 
   isDevelopingAddon() {
